@@ -1,0 +1,34 @@
+{
+  "dependencies": {
+    "genius-lyrics-api": "^3.0.6",
+    "youtubei": "^0.0.1-rc.20",
+    "ytdl-core": "^4.9.1"
+  },
+  "name": "yt-lirik",
+  "version": "1.0.0",
+  "description": "Search lyrics from youtube videos",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "node index"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fdciabdul/Youtube-Lyrics-Finder.git"
+  },
+  "keywords": [
+    "lyrics",
+    "lirik",
+    "youtube",
+    "lyrics"
+  ],
+  "author": "Abdul Muttaqin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fdciabdul/Youtube-Lyrics-Finder/issues"
+  },
+  "homepage": "https://github.com/fdciabdul/Youtube-Lyrics-Finder#readme"
+}
