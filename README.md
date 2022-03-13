@@ -3,13 +3,13 @@ a Simple library to Search Lyrics from Youtube Videos
 ![image](https://user-images.githubusercontent.com/31664438/131443647-c1f99e33-9c83-43e9-b515-bff26fe65efe.png)
 
 ```bash
-npm install yt-lirik
+npm install @fdciabdul/yt-lirik
 ```
 
 or
 
 ``` 
-yarn add yt-lirik
+yarn add @fdciabdul/yt-lirik
 ```
 
 ## Test 
