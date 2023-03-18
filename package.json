@@ -1,7 +1,7 @@
 {
   "dependencies": {
     "genius-lyrics-api": "^3.0.6",
-    "youtubei": "^0.0.1-rc.20",
+    "youtubei": "^1.0.0",
     "ytdl-core": "^4.9.1"
   },
   "name": "yt-lirik",
